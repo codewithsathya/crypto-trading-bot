@@ -1,0 +1,23 @@
+{
+  "name": "crypto-trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsathya/crypto-trading-bot.git"
+  },
+  "author": "Sathiya Seelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithsathya/crypto-trading-bot/issues"
+  },
+  "homepage": "https://github.com/codewithsathya/crypto-trading-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-binance-api": "^0.12.5"
+  }
+}
